@@ -1,0 +1,6 @@
+data/DATASET.csv
+.conda
+__pycache__
+*.pyc
+*.pyo
+*.pyd
